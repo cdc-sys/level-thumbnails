@@ -1,2 +1,4 @@
 # level-thumbnails-testing
-hii
+
+**1920x1080**
+**NO OVERLAYS ENABLED**
