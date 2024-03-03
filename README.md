@@ -5,8 +5,8 @@
 ## Texture Quality: High
 ## Format: .png
 ## NO CROPPING
-## Make your message have the level IDs in order (images and IDs must be in same order) separated by new lines.
 ## The ID and Image counts need to match (obviously)
+## Files below 3MB
 # Recommendations
 - Try to take a screenshot of the most recognizable part of the level.
 - Use the default icon set.
