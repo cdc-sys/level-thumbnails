@@ -10,5 +10,3 @@
 # Recommendations
 - Try to take a screenshot of the most recognizable part of the level.
 - Use the default icon set.
-# Misc
-- You may submit 1920x1080 or higher, but it will be downscaled to 1920x1080.
