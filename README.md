@@ -5,7 +5,6 @@
 ## Texture Quality: High
 ## Format: .png
 ## NO CROPPING
-## The ID and Image counts need to match (obviously)
 ## Files below 3MB
 # Recommendations
 - Try to take a screenshot of the most recognizable part of the level.
