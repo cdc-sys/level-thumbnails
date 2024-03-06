@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          date > generated.txt
+          ls ./thumbs/ > list.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
