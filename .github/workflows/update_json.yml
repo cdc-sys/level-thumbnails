@@ -8,7 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          python -m pip install json
           python ./.github/script/generate_json.py > thumbnails.json
           git config user.name github-actions
           git config user.email github-actions@github.com
