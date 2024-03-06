@@ -1,4 +1,4 @@
-name: Example Push Action
+name: Update thumbnails.json
 on: push
 permissions:
   contents: write
