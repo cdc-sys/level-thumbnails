@@ -1,2 +1,2 @@
 # USE THE DISCORD SERVER TO ADD YOUR OWN THUMBNAILS 
-https://discord.gg/6f36FuxS
+https://discord.gg/K6M4RduZxY
