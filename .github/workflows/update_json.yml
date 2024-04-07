@@ -1,5 +1,6 @@
 name: Update thumbnails.json
-on: push
+on:
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
