@@ -1,2 +1,89 @@
-<h1>Please update your mod!</h1>
-<p>This is not the page you were supposed to go to.</p>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap"
+  rel="stylesheet">
+<div class="link-class nunito-bold">
+  <h1>Please update your mod!</h1>
+  <p>You're not supposed to be here.</p>
+  <p>The mod doesn't use GitHub Pages anymore.</p>
+  <button onclick="goToLatestRelease();" class="nunito-bold">Go to latest Release.</button>
+</div>
+<style>
+  .nunito-bold {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  p {
+    font-size: 2.2rem;
+  }
+
+  #main {
+    cursor: pointer;
+  }
+
+  a {
+    display: table;
+    margin-left: 0.5rem
+  }
+
+  button {
+    cursor: pointer;
+    padding: 0.50rem;
+    outline-color: #b6d4fc;
+    outline-width: 0.25rem;
+    border-radius: 1.5rem;
+    outline-style: solid;
+    border: none;
+    background: none;
+    color: #b6d4fc;
+    font-size: 2.75rem;
+    margin-bottom: 1rem;
+    transition: padding 1s, transform 1s;
+  }
+
+  button:hover {
+    padding: 1rem;
+    transform: translateY(-0.5rem);
+    transition: padding 1s, transform 1s;
+  }
+
+  a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 2.75rem;
+    transform: translateX(-1rem);
+    transition: font-size 1s, transform 1s;
+  }
+
+  html {
+    background-color: #212129;
+    overflow: hidden;
+    text-align: center;
+  }
+
+  .link-class {
+    color: #b6d4fc;
+    font-size: 2.5rem;
+  }
+
+  h1 {
+    color: #cfcfff;
+    font-size: 4rem;
+  }
+
+  div {
+    margin-left: 25%;
+    margin-top: 10%;
+    background-color: rgba(0, 0, 0, 0.25);
+    width: 50%;
+    border-radius: 1.5rem;
+  }
+</style>
+<script>
+  function goToLatestRelease() {
+    window.location.href = "https://github.com/cdc-sys/level-thumbs-mod/releases/latest"
+  }
+</script>
