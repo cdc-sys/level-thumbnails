@@ -17,6 +17,6 @@ Second, **you can't use it on levels with shaders**.
 4. Click it.
 ![image](https://github.com/user-attachments/assets/b5988717-8f4a-4d43-a263-69459193bafc)
 
-*For a tutorial on how to submit a thumbnail taken with the screenshot tool [click here](https://cdc-sys.github.io/level-thumbnails/wiki/screenshot-tool-submission.md)*
+*For a tutorial on how to submit a thumbnail taken with the screenshot tool [click here](https://cdc-sys.github.io/level-thumbnails/wiki/screenshot-tool-submission)*
 
 
