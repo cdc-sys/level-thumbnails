@@ -12,3 +12,4 @@
 - Use the default icon set.
 # Misc
 - You may submit 1920x1080 or higher, but it will be downscaled to 1920x1080.
+![image](https://github.com/user-attachments/assets/5b68239f-f812-40f1-b132-294b27cfa2c2)
